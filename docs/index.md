@@ -13,7 +13,7 @@ hero:
       link: /guide/why-cursorrules
     - theme: alt
       text: View on GitHub
-      link: https://github.com/your-username/awesome-cursorrules
+      link: https://github.com/chengazhen/awesome-cursorrules
 
 features:
   - icon: 🎯

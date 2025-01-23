@@ -16,8 +16,7 @@ export default defineConfig({
     logo: '/cursor-ai-logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-      { text: 'Rules', link: '/rules/' },
+      { text: 'Original Repo', link: 'https://github.com/PatrickJS/awesome-cursorrules' },
     ],
     sidebar: [
       {
@@ -25,8 +24,6 @@ export default defineConfig({
         items: [
           { text: 'Why .cursorrules?', link: '/guide/why-cursorrules' },
           { text: 'How to Use', link: '/guide/how-to-use' },
-          { text: 'Contributing', link: '/guide/contributing' },
-          { text: 'Rules Format', link: '/guide/rules-format' }
         ]
       },
       {
@@ -35,7 +32,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-username/awesome-cursorrules' }
+      { icon: 'github', link: 'https://github.com/chengazhen/awesome-cursorrules' }
     ],
     footer: {
       message: 'Released under the MIT License.',
