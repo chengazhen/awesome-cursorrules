@@ -1,0 +1,25 @@
+{
+  "name": "awesome-cursorrules",
+  "version": "1.0.0",
+  "description": "A curated list of awesome .cursorrules files for enhancing Cursor AI experience",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "cursor",
+    "ai",
+    "rules",
+    "documentation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.9",
+    "vitepress": "^1.0.0-rc.40",
+    "vue": "^3.4.15"
+  }
+}
